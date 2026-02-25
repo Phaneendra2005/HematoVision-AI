@@ -1,0 +1,13 @@
+
+HematoVision_Project/
+│
+├── dataset/
+│   ├── eosinophil/
+│   ├── lymphocyte/
+│   ├── monocyte/
+│   └── neutrophil/
+│
+├── train.py
+├── predict.py
+├── requirements.txt
+└── README.md
